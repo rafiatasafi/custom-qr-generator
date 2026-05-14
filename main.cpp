@@ -1,5 +1,5 @@
 // QR Code Generator - Final Project
-// Authors: [Name 1], [Name 2], [Name 3]
+// Authors: Rafia, Hamza, Zak
 // Course: CS103, Spring 2026
 // Sources: claude.ai conversation May 2026
 //          https://dev.to/maxart2501/series/13444 (conceptual reference)
