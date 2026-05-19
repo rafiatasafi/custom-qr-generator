@@ -42,14 +42,14 @@ class QRCode {
             originalChecksum = 0;
         }
 
-        // --- PERSON 1: Encoding + Decoding ---
+        // Encoding + Decoding ---
         string charToBinary(char c);        // converts char to 8-bit binary
         string messageToBinary(string msg); // converts entire message to binary
         string encode(string msg);          // main encoding function
         string decode();                    // main decoding function
         string binaryToChar(string bits);   // converts 8-bit binary to char
 
-        // --- PERSON 2: Grid + Checksum ---
+        // Grid + Checksum ---
         void buildGrid(string binary);      // turns binary into visual grid
         string gridToBinary();              // reads grid back to binary
         void displayGrid();                 // prints grid to terminal
@@ -57,7 +57,7 @@ class QRCode {
         void addSignature();                // adds RHZ signature to grid
         void removeSignature();             // strips signature before decode
 
-        // --- PERSON 3: File I/O + Utility ---
+        // File I/O + Utility ---
         void saveToFile(string filename);   // writes grid to txt
         void loadFromFile(string filename); // reads grid from txt
         void printSignatureExplanation();   // explains signature to user
