@@ -123,8 +123,8 @@ When saved, the output `.txt` file looks like:
 ## Sources & Citations
 
 - [DEV Community — QR Code Generator Series](https://dev.to/maxart2501/series/13444) — conceptual reference
-- [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) — conceptual reference for data-to-grid mapping (not copied)
-- zyBooks Ch. 9.7 — file I/O
+- [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) — conceptual reference for data-to-grid mapping 
+- zyBooks Chapter 9.7 — file I/O
 - [GeeksForGeeks — char to binary](https://www.geeksforgeeks.org/convert-character-binary-string-cpp/)
 - [GeeksForGeeks — binary to decimal](https://www.geeksforgeeks.org/program-binary-decimal-conversion/)
 - [GeeksForGeeks — vector insert/erase](https://www.geeksforgeeks.org/vector-insert-function-in-cpp-stl/)
